@@ -1,8 +1,8 @@
 ### Hi there 👋
-Meu nome é Rosangela
+Meu nome é Rosangela:owl:
 
-Trabalho com Programa Edutech-Pr
+Trabalho com Programa Edutech-Pr:computer:
 
-Estou iniciando no mundo da Programação
+Estou iniciando no mundo da Programação:technologist:
 
-Sou professora na trilha de JavaScript
+Sou professora na trilha de JavaScript:coffee:
